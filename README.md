@@ -30,12 +30,10 @@
 
 <p><h1>Hello World! 🌟</h1>
   Welcome to my GitHub profile!
-  
-  My name is Maurício Raposo, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro. I am also interning at <a href="https://f12.bet/prejogo/">F12.bet</a>, where I'm gaining practical experience in the tech industry. I am passionate about learning and constantly seek to expand my knowledge in various areas.
-  
-  In my free time, I enjoy listening to Lofi music and tackling complex problems that challenge my analytical skills. Whether it's coding, debugging, or optimizing algorithms, I find joy in solving intricate challenges and improving my technical abilities.
-  
-  Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
+
+I’m Maurício Raposo, a student of Analysis and Systems Development at UNIBRA and an intern at F12.bet, where I am gaining valuable industry experience. I am dedicated to expanding my technical knowledge and enjoy tackling complex challenges, from coding and debugging to algorithm optimization.
+
+Explore my repositories and projects. I am open to collaborations and discussions on technology and development.</p>
   <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121bdf8262fc8ae6ebc335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"><img src="https://camo.githubusercontent.com/53ec2e58e03ba275d9b3a386abd96a243cf744a1a7121bdf8262fc8ae6ebc335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"></a> 
