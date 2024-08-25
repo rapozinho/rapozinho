@@ -28,7 +28,7 @@
              
       </p>
 
-<p><h1>Hello World! 🌟</h1>
+<p><h1>Hello World! 🦊</h1>
   Welcome to my GitHub profile!
   
   My name is Maurício Raposo, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro. I am also interning at <a href="https://f12.bet/prejogo/">F12.bet</a>, where I'm gaining practical experience in the tech industry. I am passionate about learning and constantly seek to expand my knowledge in various areas.
