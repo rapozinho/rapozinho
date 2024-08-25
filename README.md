@@ -31,7 +31,7 @@
 <p><h1>Hello World! 🌟</h1>
   Welcome to my GitHub profile!
 
-I’m Maurício Raposo, a student of Analysis and Systems Development at UNIBRA and an intern at F12.bet, where I am gaining valuable industry experience. I am dedicated to expanding my technical knowledge and enjoy tackling complex challenges, from coding and debugging to algorithm optimization.
+I’m Maurício Raposo, a student of Analysis and Systems Development at UNIBRA and an intern at <a href="https://f12.bet/prejogo/">F12.bet</a>, where I am gaining valuable industry experience. I am dedicated to expanding my technical knowledge and enjoy tackling complex challenges, from coding and debugging to algorithm optimization.
 
 Explore my repositories and projects. I am open to collaborations and discussions on technology and development.</p>
   <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
