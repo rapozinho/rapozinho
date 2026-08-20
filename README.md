@@ -36,18 +36,37 @@
   In my free time, I enjoy listening to Lofi music and tackling complex problems that challenge my analytical skills. Whether it's coding, debugging, or optimizing algorithms, I find joy in solving intricate challenges and improving my technical abilities.
   
   Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
-  <h1 class="heading-element" dir="auto">📌 Featured project</h1>
+  <h1 class="heading-element" dir="auto">🗂️ Portfolio</h1>
+
+<table>
+  <tr>
+    <td width="620" valign="top">
+      <h3 dir="auto" style="margin-top: 0;">BlackWall Analytics</h3>
+      <p dir="auto">
+        <strong>BI portal over a SQL Server data warehouse.</strong> A gallery of reports per operation,
+        filters that build themselves from the backend's parameter spec, and long queries running as
+        background jobs — with live progress, and a cancel button that actually kills the query on the server.
+      </p>
+      <p dir="auto">
+        <strong>Stack:</strong> FastAPI (read-only) · React + Vite · Chart.js · SQL Server 2022 · Docker Compose · nginx
+      </p>
+      <ul dir="auto">
+        <li>A versioned catalog of <strong>292 T-SQL files</strong>, compiled against the warehouse in CI-style checks</li>
+        <li>Two business verticals — betting and e-commerce — served by one codebase and one vocabulary layer</li>
+        <li>The demo database ships with the app: SQL Server 2022 plus a synthetic data generator, one <code>docker compose up</code></li>
+        <li>The published page replays snapshots of the real API payloads, so it opens instantly with no backend to wake up</li>
+      </ul>
+      <p dir="auto">
+        <a target="_blank" href="https://rapozinho.github.io/blackwall-analytics/"><strong>▶ Open the live demo</strong></a>
+        &nbsp;·&nbsp;
+        <a target="_blank" href="https://github.com/rapozinho/blackwall-analytics">Source code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p dir="auto">
-  <a target="_blank" href="https://rapozinho.github.io/blackwall-analytics/"><img src="https://img.shields.io/badge/BlackWall%20Analytics-open%20the%20live%20demo-FCEE0A?style=for-the-badge&logo=githubpages&logoColor=black" alt="Live demo" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://github.com/rapozinho/blackwall-analytics"><img src="https://img.shields.io/badge/source-blackwall--analytics-121011?style=for-the-badge&logo=github" alt="Source code" style="max-width: 100%;"></a>
-</p>
-<p dir="auto">
-  A BI portal over a SQL Server data warehouse: <strong>FastAPI</strong> (read-only) + <strong>React/Vite</strong> + <strong>Chart.js</strong>,
-  a catalog of <strong>292 T-SQL files</strong>, long queries running as background jobs with live progress and cancellation
-  (which actually kills the query on the server), two business verticals sharing one codebase, and the whole stack
-  — SQL Server 2022, synthetic data generator, API and nginx — in <strong>Docker</strong>.
-  The link above opens instantly: the published page replays snapshots of the real API payloads, so there is no
-  backend to wake up. Numbers are fictional by design; run <code>docker compose up</code> to see it query the database for real.
+  <sub>Operation names and every record in the demo are fictional — the engineering is what carried over.</sub>
 </p>
 
   <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
