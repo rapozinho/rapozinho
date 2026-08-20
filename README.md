@@ -54,7 +54,7 @@
         <li>A versioned catalog of <strong>292 T-SQL files</strong>, compiled against the warehouse in CI-style checks</li>
         <li>Two business verticals — betting and e-commerce — served by one codebase and one vocabulary layer</li>
         <li>The demo database ships with the app: SQL Server 2022 plus a synthetic data generator, one <code>docker compose up</code></li>
-        <li>The published page replays snapshots of the real API payloads, so it opens instantly with no backend to wake up</li>
+        <li>The published page replays snapshots of the real API payloads, so it opens instantly with no backend to wake up &mdash; the live demo currently runs the <strong>e-commerce</strong> vertical (GMV, take rate, revenue per customer)</li>
       </ul>
       <p dir="auto">
         <a target="_blank" href="https://rapozinho.github.io/blackwall-analytics/"><strong>▶ Open the live demo</strong></a>
