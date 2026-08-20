@@ -36,6 +36,20 @@
   In my free time, I enjoy listening to Lofi music and tackling complex problems that challenge my analytical skills. Whether it's coding, debugging, or optimizing algorithms, I find joy in solving intricate challenges and improving my technical abilities.
   
   Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
+  <h1 class="heading-element" dir="auto">📌 Featured project</h1>
+<p dir="auto">
+  <a target="_blank" href="https://rapozinho.github.io/blackwall-analytics/"><img src="https://img.shields.io/badge/BlackWall%20Analytics-open%20the%20live%20demo-FCEE0A?style=for-the-badge&logo=githubpages&logoColor=black" alt="Live demo" style="max-width: 100%;"></a>
+  <a target="_blank" href="https://github.com/rapozinho/blackwall-analytics"><img src="https://img.shields.io/badge/source-blackwall--analytics-121011?style=for-the-badge&logo=github" alt="Source code" style="max-width: 100%;"></a>
+</p>
+<p dir="auto">
+  A BI portal over a SQL Server data warehouse: <strong>FastAPI</strong> (read-only) + <strong>React/Vite</strong> + <strong>Chart.js</strong>,
+  a catalog of <strong>292 T-SQL files</strong>, long queries running as background jobs with live progress and cancellation
+  (which actually kills the query on the server), two business verticals sharing one codebase, and the whole stack
+  — SQL Server 2022, synthetic data generator, API and nginx — in <strong>Docker</strong>.
+  The link above opens instantly: the published page replays snapshots of the real API payloads, so there is no
+  backend to wake up. Numbers are fictional by design; run <code>docker compose up</code> to see it query the database for real.
+</p>
+
   <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
 
 <p dir="auto">  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.w3schools.com/js/"><img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" style="max-width: 100%;"></a> 
