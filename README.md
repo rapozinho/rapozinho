@@ -43,33 +43,20 @@
 <table>
   <tr>
     <td width="620" valign="top">
-      <h3 dir="auto" style="margin-top: 0;">BlackWall Analytics</h3>
+      <h3 dir="auto" style="margin-top: 0;">mauricio-raposo.vercel.app</h3>
       <p dir="auto">
-        <strong>BI portal over a SQL Server data warehouse.</strong> A gallery of reports per operation,
-        filters that build themselves from the backend's parameter spec, and long queries running as
-        background jobs — with live progress, and a cancel button that actually kills the query on the server.
+        <strong>Everything in one place.</strong> The projects and what each one actually solved,
+        the stack behind them, the career timeline and the certificates. Written in Portuguese
+        and English, and it reads on a phone.
       </p>
       <p dir="auto">
-        <strong>Stack:</strong> FastAPI (read-only) · React + Vite · Chart.js · SQL Server 2022 · Docker Compose · nginx
-      </p>
-      <ul dir="auto">
-        <li>A versioned catalog of <strong>292 T-SQL files</strong>, compiled against the warehouse in CI-style checks</li>
-        <li>Two business verticals — betting and e-commerce — served by one codebase and one vocabulary layer</li>
-        <li>The demo database ships with the app: SQL Server 2022 plus a synthetic data generator, one <code>docker compose up</code></li>
-        <li>The published page replays snapshots of the real API payloads, so it opens instantly with no backend to wake up &mdash; the live demo currently runs the <strong>e-commerce</strong> vertical (GMV, take rate, revenue per customer)</li>
-      </ul>
-      <p dir="auto">
-        <a target="_blank" href="https://rapozinho.github.io/blackwall-analytics/"><strong>▶ Open the live demo</strong></a>
+        <a target="_blank" href="https://mauricio-raposo.vercel.app"><strong>▶ Open the portfolio</strong></a>
         &nbsp;·&nbsp;
-        <a target="_blank" href="https://github.com/rapozinho/blackwall-analytics">Source code</a>
+        <a target="_blank" href="https://github.com/rapozinho/portfolio">Source code</a>
       </p>
     </td>
   </tr>
 </table>
-
-<p dir="auto">
-  <sub>Operation names and every record in the demo are fictional — the engineering is what carried over.</sub>
-</p>
 
   <h1 class="heading-element" dir="auto">💻 Tech Stack</h1><p dir="auto">
 
