@@ -31,7 +31,7 @@
 <p><h1>Hello World! 🦊</h1>
   Welcome to my GitHub profile!
   
-  My name is Maurício Raposo, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro. I am also interning at <a href="https://f12.bet/prejogo/">F12.bet</a>, where I'm gaining practical experience in the tech industry. I am passionate about learning and constantly seek to expand my knowledge in various areas.
+  My name is Maurício Raposo, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro. I am a junior data engineer and analyst at BSA Tech, working with SQL, Python pipelines and automation in production. I am passionate about learning and constantly seek to expand my knowledge in various areas.
   
   In my free time, I enjoy listening to Lofi music and tackling complex problems that challenge my analytical skills. Whether it's coding, debugging, or optimizing algorithms, I find joy in solving intricate challenges and improving my technical abilities.
   
