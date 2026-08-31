@@ -31,11 +31,13 @@
 <p><h1>Hello World! 🦊</h1>
   Welcome to my GitHub profile!
   
-  My name is Maurício Raposo, and I'm currently a student of Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro. I am a junior data engineer and analyst at BSA Tech, working with SQL, Python pipelines and automation in production. I am passionate about learning and constantly seek to expand my knowledge in various areas.
+  My name is Maurício Raposo. I am a junior data engineer and analyst at BSA Tech, working in the betting vertical, where a wrong number is money and not a rounding error. I write the SQL and build the Python routines that keep operational numbers honest. One manual routine I automated went from one to two days of work down to five to ten minutes, and it still runs in production.
   
-  In my free time, I enjoy listening to Lofi music and tackling complex problems that challenge my analytical skills. Whether it's coding, debugging, or optimizing algorithms, I find joy in solving intricate challenges and improving my technical abilities.
+  I am finishing a degree in Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro, graduating in December 2026, alongside full time work, with twelve Alura certifications along the way.
   
-  Feel free to explore my repositories and projects. I'm always open to collaboration and discussions about technology and development!</p>
+  Day to day that means advanced T-SQL on PostgreSQL and SQL Server, Python pipelines, Microsoft Graph API integrations, three Telegram report bots in production, and Docker Compose with nginx to serve it.
+  
+  Still listening to Lofi while I debug. Feel free to explore the repositories below.</p>
   <h1 class="heading-element" dir="auto">🗂️ Portfolio</h1>
 
 <table>
