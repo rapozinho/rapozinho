@@ -29,13 +29,17 @@
       </p>
 
 <p><h1>Hello World! 🦊</h1>
-  Welcome to my GitHub profile!
-  
-  My name is Maurício Raposo. I am a junior data engineer and analyst at BSA Tech, working in the betting vertical, where a wrong number is money and not a rounding error. I write the SQL and build the Python routines that keep operational numbers honest. One manual routine I automated went from one to two days of work down to five to ten minutes, and it still runs in production.
-  
-  I am finishing a degree in Analysis and Systems Development at UNIBRA - Centro Universitário Brasileiro, graduating in December 2026, alongside full time work, with twelve Alura certifications along the way.
-  
-  Day to day that means advanced T-SQL on PostgreSQL and SQL Server, Python pipelines, Microsoft Graph API integrations, three Telegram report bots in production, and Docker Compose with nginx to serve it.
+Welcome to my GitHub profile!
+
+I’m Maurício Raposo, a junior data engineer and analyst at BSA Tech. I build the SQL and Python routines that turn data into reliable, useful information for the teams I work with.
+
+One of the manual processes I automated used to take one to two days of work. After rebuilding it in Python with SQL-based extraction and API integrations, it now takes five to ten minutes and runs in production.
+
+My day-to-day work involves PostgreSQL, SQL Server and T-SQL, Python data pipelines, Microsoft Graph API integrations, Docker Compose, Nginx, and Telegram bots used for operational reporting.
+
+I’m also finishing my degree in Analysis and Systems Development at UNIBRA, graduating in December 2026, while working full time and continuing to expand my technical background through professional certifications.
+
+My portfolio is pinned below, where I keep a more complete overview of my work, projects, and experience.
   
   Still listening to Lofi while I debug. Feel free to explore the repositories below.</p>
   <h1 class="heading-element" dir="auto">🗂️ Portfolio</h1>
